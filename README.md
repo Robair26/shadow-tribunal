@@ -67,5 +67,4 @@ cp .env.example .env
 ## Notes for deployment
 This repo is meant to be run locally. If you deploy, keep `.env` out of git and use environment variables.
 
-## License
-MIT (or your preferred license).
+Link: https://tribunal.bitshadow.dev/
